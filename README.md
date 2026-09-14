@@ -241,4 +241,4 @@ This repository serves as the official landing page for Notepad2. The software i
 **Get the most recent version of Notepad2 today!**
 
 ---
-**Last updated:** 2026-09-13 22:56:31 UTC
+**Last updated:** 2026-09-14 00:50:54 UTC
